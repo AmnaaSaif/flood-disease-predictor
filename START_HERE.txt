@@ -1,0 +1,36 @@
+🌊 AI-Powered Flood-Disease Outbreak Predictor
+==============================================
+
+Welcome to the complete project package!
+
+📁 WHAT'S INCLUDED:
+- Complete Next.js frontend dashboard
+- FastAPI backend with AI models
+- PostgreSQL database with sample data
+- Docker configuration for easy setup
+- All UI components and styling
+- Mock data generators for demo
+- Complete documentation
+
+🚀 QUICK START (3 STEPS):
+
+1. Extract this zip file to your computer
+2. Open terminal in the project folder
+3. Run: docker-compose up -d
+4. Open browser: http://localhost:3000
+
+📋 REQUIREMENTS:
+- Docker Desktop (recommended)
+- OR Node.js 18+ and Python 3.9+
+
+📖 DETAILED SETUP:
+See INSTALLATION_GUIDE.md for step-by-step instructions
+
+🎯 FOR COMPETITION:
+This is a complete, working prototype ready for demonstration.
+All features work exactly as shown in the original demo.
+
+🆘 NEED HELP?
+Check the README.md file for troubleshooting and support.
+
+Good luck with your competition! 🏆
